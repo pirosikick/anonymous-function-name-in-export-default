@@ -1,0 +1,1 @@
+# anonymous-function-name-in-export-default
