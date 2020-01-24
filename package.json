@@ -1,0 +1,23 @@
+{
+  "name": "anonymous-function-name-in-export-default",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anonymousFunction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pirosikick/anonymous-function-name-in-export-default.git"
+  },
+  "keywords": [],
+  "author": "Hiroyuki ANAI <pirosikick@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pirosikick/anonymous-function-name-in-export-default/issues"
+  },
+  "homepage": "https://github.com/pirosikick/anonymous-function-name-in-export-default#readme",
+  "devDependencies": {
+    "http-server": "^0.12.1"
+  }
+}

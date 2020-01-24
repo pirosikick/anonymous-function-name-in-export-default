@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Anonymous Function Name In export default</title>
+  </head>
+  <body>
+    <h1>Anonymous Function Name In export default</h1>
+    <h2 id="name"></h2>
+    <script type="module">
+      import anonymousFunction from "./anonymousFunction.js";
+      document.getElementById("name").innerHTML = anonymousFunction.name;
+    </script>
+  </body>
+</html>
